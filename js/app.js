@@ -21,5 +21,5 @@ alert("Esto se parece a un paseo en bici, No es un entrenamiento para competir!!
 }
 
 else {
-alert("estoy confundido, no se que deporte estas practicando!")
+alert("estoy confundido, no se que deporte estas practicando!");
 }
